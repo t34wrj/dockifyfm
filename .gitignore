@@ -50,6 +50,9 @@ htmlcov/
 coverage.xml
 *.cover 
 
+# Documentation
+docs/
+
 # AI Documentation
 docs/ai-guidelines.md
 docs/code-style.md
